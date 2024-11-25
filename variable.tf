@@ -10,5 +10,5 @@ variable "instance_type" {
 
 variable "instance_name" {
     type = string
-    default = "test_server"
+    default = "test_server_v2"
 }
